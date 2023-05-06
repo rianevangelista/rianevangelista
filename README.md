@@ -2,7 +2,7 @@
 <h3><a href="https://training.genexus.com/pt/aprendizagem/certificacoes/tecnicos-certificados?data=119444">Genexus Junior Analyst</a></h3>
 
 <p>🚀 I'm currently working on <a href="https://www.instagram.com/databusiness.tecnologia/">DataBusiness</a></p>
-<p>⚡ I'm currently learning Genexus, JavaScript & PHP</p>
+<p>⚡ I'm currently learning Genexus, Flutter & React</p>
 
 <h2> 💻 Skills </h2>
 <p>
