@@ -1,8 +1,8 @@
 <h1>Fala, Dev! 👋 Rian Evangelista aqui!</h1>
 <h3><a href="https://training.genexus.com/pt/aprendizagem/certificacoes/tecnicos-certificados?data=119444">Genexus Junior Analyst</a></h3>
 
-<p>🚀 I'm currently working on <a href="https://www.instagram.com/databusiness.tecnologia/">DataBusiness</a></p>
-<p>⚡ I'm currently learning Genexus, Flutter & React</p>
+<p>🚀 I'm currently working on <a href="https://www.instagram.com/paguemenos/?hl=pt">Farmácias Pague Menos</a></p>
+<p>⚡ I'm currently learning Flutter, React, Python & Power BI</p>
 
 <h2> 💻 Skills </h2>
 <p>
