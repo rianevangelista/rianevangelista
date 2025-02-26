@@ -19,9 +19,6 @@
 <h2> 📊 Github Status </h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianevangelista&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rianevangelista"><p>
-
 <!---
 rianevangelista/rianevangelista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
