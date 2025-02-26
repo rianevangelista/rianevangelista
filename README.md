@@ -1,6 +1,5 @@
 <h1>Fala, Dev! 👋 Rian Evangelista aqui!</h1>
 
-<p>🚀 I'm currently working on <a href="https://www.instagram.com/paguemenos/?hl=pt">Farmácias Pague Menos</a></p>
 <p>⚡ I'm currently learning Flutter, React, Python & Power BI</p>
 
 <h2> 💻 Skills </h2>
@@ -15,7 +14,6 @@
 <h2> 👥 Social </h2>
 <p>
 <a href="https://www.linkedin.com/in/rianevangelista/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/_rianevangelista/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 <h2> 📊 Github Status </h2>
